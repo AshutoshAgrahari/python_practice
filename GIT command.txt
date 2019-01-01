@@ -1,0 +1,5 @@
+git clone https://github.com/AshutoshAgrahari/python_practice.git
+git add .
+git commit -a -m "msg"
+git push
+git pull
